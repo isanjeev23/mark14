@@ -13,6 +13,12 @@ It displays the Percentage of Loss and Profit as well.
 - Netlify
 
 ### Preview Demo 
-![profitloss](https://github.com/isanjeev23/mark14/blob/main/images/snapshot.png)
+
+https://stockprofitloss21.netlify.app/
+
+### Snapshot
+![image](https://user-images.githubusercontent.com/62952242/208894794-5d5528f8-417a-4841-abc8-9540363a1f33.png)
+
+
 
 
