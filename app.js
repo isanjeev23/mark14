@@ -14,7 +14,7 @@ function calcProfit(costPrice, sellingPrice) {
     let profit = sellingPrice - costPrice;
 
     return {
-        "profit": profit,
+        "profit": profit.toFixed(2),
         "profitPercent": profit / costPrice * 100
     }
 }
@@ -23,7 +23,7 @@ function calcLoss(costPrice, sellingPrice) {
     let loss = costPrice - sellingPrice;
 
     return {
-        "loss": loss,
+        "loss": loss.toFixed(2),
         "lossPercent": loss / costPrice * 100
     }
 }
